@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @J-andry but you can call me Quinn
+- 👀 I’m interested in full stack development but looking to branch later
+- 🌱 I’m currently learning python through cs50's program
+- 💞️ I’m not looking to collaborate anything right now, I want to focus on learning
+- 📫 How to reach me you can reach me currently at my email: jaqulinevandry@gmail.com
